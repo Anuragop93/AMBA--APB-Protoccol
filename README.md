@@ -40,4 +40,10 @@ Responds to the transfer request and provides/read data.
 
 - Connects low bandwidth peripherals to high performance processors or memory systems  
 - Simplifies peripheral interface design using a straightforward protocol  
-- Reduces dynamic power consumption, making it suitable for SoC and embedded system applications  
+- Reduces dynamic power consumption, making it suitable for SoC and embedded system applications
+
+---
+
+<h2>APB System Architecture</h2>
+
+<img src="<img width="800" height="446" alt="BLOCK_DIAG" src="https://github.com/user-attachments/assets/4e5e7d7b-df3c-4225-a7f1-355b4edae775" />>
